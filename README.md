@@ -1,4 +1,4 @@
-[# Git Practice Exercise
+# Git Practice Exercise
 
 ## Practice:
 - Cloning repositories
