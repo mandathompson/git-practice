@@ -1,4 +1,4 @@
-# Git Practice Exercise
+[# Git Practice Exercise
 
 ## Practice:
 - Cloning repositories
@@ -33,3 +33,4 @@
 ## Setup requirements
 - Instructors must add students to a team named after the class name.
 - Students must accept the invite from GitHub in order to be able to contribute to this repo
+](https://github.com/mandathompson/git-practice.git)
