@@ -18,7 +18,7 @@
 ## Detailed Instructions for Command Line
 1. Open up your terminal 
 2. CD to wherever you normally add new projects.
-3. Clone this repository (click clone and copy and paste the url)
+3. Clone this repository `git clone https://github.com/mandathompson/git-practice.git`
 4. Change directories into your copy of this project `cd git-practice`
 5. Create a branch in your name. `git checkout -b firstName-lastName` where the first and last names are your first and last name.
 6. Run `git status` to double check the new branch is created and you are working inside of it.
