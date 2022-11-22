@@ -18,8 +18,8 @@
 ## Detailed Instructions for Command Line
 1. Open up your terminal 
 2. CD to wherever you normally add new projects.
-3. Clone this repository: `git clone https://github.com/CodeupClassroom/practice-git.git`
-4. Change directories into your copy of this project `cd practice-git`
+3. Clone this repository (click clone and copy and paste the url)
+4. Change directories into your copy of this project `cd git-practice`
 5. Create a branch in your name. `git checkout -b firstName-lastName` where the first and last names are your first and last name.
 6. Run `git status` to double check the new branch is created and you are working inside of it.
 7. In your prefered editor, open up `index.html` and add an `h1` tag with your name. Be sure to save your work.
@@ -30,7 +30,4 @@
 12. Run `git push -u origin firstName-lastName`
 13. In your browser, navigate to this repository on GitHub and double check to make sure your branch is pushed.
 
-## Setup requirements
-- Instructors must add students to a team named after the class name.
-- Students must accept the invite from GitHub in order to be able to contribute to this repo
-](https://github.com/mandathompson/git-practice.git)
+
